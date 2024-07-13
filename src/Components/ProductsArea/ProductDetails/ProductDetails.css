@@ -1,0 +1,9 @@
+.ProductDetails > img {
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.ProductDetails > a {
+    display: block;
+    margin-top: 20px;
+}

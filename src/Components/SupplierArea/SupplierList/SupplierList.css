@@ -1,0 +1,13 @@
+.SupplierList {
+	text-align: center;
+}
+
+.SupplierList > table{
+    margin: auto;
+    width: 100%;
+}
+
+.SupplierList table, th, tr, td {
+    text-align: center;
+    border: 1px solid;
+}

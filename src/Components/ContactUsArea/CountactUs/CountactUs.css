@@ -1,0 +1,11 @@
+.CountactUs > form {
+	width: 450px;
+    /*margin: 20px auto;
+    border: 1px solid;
+    box-shadow: 10px 10px 10px; */
+}
+
+.CountactUs .TextBox{
+    width: 100%;
+    margin: 5px 0;
+}
